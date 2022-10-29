@@ -1,0 +1,24 @@
+{
+  "name": "viddl-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot for downloading videos from several websites",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunaditu/viddl-bot.git"
+  },
+  "author": "lunaditu.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lunaditu/viddl-bot/issues"
+  },
+  "homepage": "https://github.com/Lunaditu/viddl-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "instagram-url-direct": "^1.0.12",
+    "youtube-dl-exec": "^2.1.6"
+  }
+}
